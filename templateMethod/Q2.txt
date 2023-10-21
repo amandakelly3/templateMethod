@@ -1,0 +1,1 @@
+Ele é um nome adicional do padrão Decorator da categoria estrutura, pois mexe nas classes e tipos primitivos dando mais funcionalidade a eles, rapidez e  flexibilidade, adiciona um novo comportamento ao objeto. 
